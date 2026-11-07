@@ -77,8 +77,10 @@ Je conçois et développe des produits web de A à Z : interface, back-end, base
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Avnids&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c86f8&icon_color=5865f2&text_color=c9d1d9&ring_color=5865f2" height="170" alt="Statistiques GitHub">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avnids&layout=compact&count_private=true&hide_border=true&bg_color=0d1117&title_color=7c86f8&text_color=c9d1d9" height="170" alt="Langages les plus utilisés">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Avnids&theme=tokyonight" height="165" alt="Statistiques GitHub">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Avnids&theme=tokyonight" height="165" alt="Langages les plus utilisés">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Avnids&theme=tokyonight" width="100%" alt="Activité GitHub">
 
 <img src="https://streak-stats.demolab.com/?user=Avnids&hide_border=true&background=0d1117&ring=5865f2&fire=7c86f8&currStreakLabel=7c86f8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=24263a" alt="Série de contributions">
 
